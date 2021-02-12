@@ -1,4 +1,5 @@
 # Remind Me There
+
 **Remind Me There** is an Android app to create reminders based on geofences. You can set up custom geofences and messages, then as you travel into the geofenced area, you'll recieve your custom message as a notification on your device.
 
 # Uses
@@ -46,4 +47,4 @@ Please click on video below to watch demo on Youtube (Github currently does not 
 
 The app works perfectly fine for Android devices upto Android 9.
 
-Made with love by Prakhar Agarwal
+Made with love:heart: by Prakhar Agarwal
