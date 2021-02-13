@@ -26,7 +26,8 @@ Mind me it's really a pain in the neck!
  - Geofence BroadcastReciever
  - JobIntentService
  - Google Maps API
- - Geofencing Client etc.
+ - Geofencing Client
+ - Notification Manager etc.
 
 Geofences give devices the power to monitor a circular area in the world, and let the device inform you whenever it enters or exits that area.
 
@@ -70,5 +71,7 @@ Please click on the video below to watch demo on Youtube (Github currently does 
 # Note
 
 The app works perfectly fine for Android devices up to Android 9.
+
+Feel free to test the app by literally going to marked place or test it on the emulator by mocking your location.
 
 Made with love:heart: by Prakhar Agarwal
