@@ -15,7 +15,7 @@ We often try to make a list of things that we want to do. Like Get groceries fro
 So I created Remind Me There app. Now in the app, you can mark a location where you want to be reminded. Like you can say remind me to buy groceries when I get to market area or remind me to purchase a book from library when I am near it. :smile:
 
 This saves both time and money because you can do those things when you are near it and not when you reach home and say Oh no! I again forgot to bring groceries from the market.
-Mind me it's really a pain in the neck! 
+Mind you it's really a pain in the neck! 
 
 # Technology
 
